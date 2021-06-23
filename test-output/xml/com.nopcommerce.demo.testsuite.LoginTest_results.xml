@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Smoke Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.496">
+  <properties />
+  
+  
+            <testcase name="verifyErrorMessageWithInvalidCredentials" time="4.234" classname="com.nopcommerce.demo.testsuite.LoginTest" />
+                <testcase name="verifyUserNevigateToLoginPage" time="1.262" classname="com.nopcommerce.demo.testsuite.LoginTest" />
+      
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Smoke Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.613">
+  <properties />
+  
+  
+            <testcase name="clickOnRegTabAndVerifyPageText" time="1.444" classname="com.nopcommerce.demo.testsuite.RegisterTest" />
+                <testcase name="clickOnRegisterTabAndKeepFirstNameEmptyAndClickOnRegisterButtonAndVerify" time="3.169" classname="com.nopcommerce.demo.testsuite.RegisterTest" />
+      
+</testsuite>
